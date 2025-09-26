@@ -34,7 +34,7 @@ This project aims to:
 Below are sample snapshots of the dashboards included in this project:  
 
 ### KPI Dashboard  
-![KPI Dashboard](images/kpi_dashboard.png)  
+![kpi Dashboard](images/kpi_dashboard.png)  
 
 ### Monthly Trend  
 ![Monthly Trend](images/monthly_trend.png)  
