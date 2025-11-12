@@ -99,19 +99,19 @@ Below are sample snapshots of the dashboards included in this project:
 
 ###  KPI Dashboard
 
-![KPI Dashboard](images/kpi_dashboard.png)
+![KPI Dashboard](Images/kpi_dashboard.png)
 
 ###  Monthly Trend
 
-![Monthly Trend](images/monthly_trend.png)
+![Monthly Trend](Images/monthly_trend.png)
 
 ###  Road Type Analysis
 
-![Road Type Analysis](images/road_type.png)
+![Road Type Analysis](Images/road_type.png)
 
 ###  Surface Condition Analysis
 
-![Surface Condition](images/surface_condition.png)
+![Surface Condition](Images/surface_condition.png)
 
 ---
 
