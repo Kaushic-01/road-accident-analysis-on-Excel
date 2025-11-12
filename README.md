@@ -119,9 +119,7 @@ Below are sample snapshots of the dashboards included in this project:
 
 Here’s a snapshot of the full **Road Accident Analysis Dashboard (Excel)**:
 
-<p align="center">
-<img width="984" height="547" alt="image" src="https://github.com/user-attachments/assets/YOUR-EXCEL-DASHBOARD-IMAGE-ID-HERE" />
-</p>
+![DashBoard](Images/Dashboard.png)
 
 *(Replace the image link with your dashboard screenshot once uploaded to GitHub.)*
 
