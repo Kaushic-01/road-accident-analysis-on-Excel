@@ -121,7 +121,6 @@ Here’s a snapshot of the full **Road Accident Analysis Dashboard (Excel)**:
 
 ![DashBoard](Images/Dashboard.png)
 
-*(Replace the image link with your dashboard screenshot once uploaded to GitHub.)*
 
 ---
 
